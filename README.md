@@ -6,7 +6,7 @@ Screenshot
 
 ![Screenshoot](app_screenshot.jpg?raw=true)
 
-[Live Demo]()
+[Live Demo](https://hulu-clone-black-iota.vercel.app/)
 
 ## Built With
 
